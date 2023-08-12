@@ -25,7 +25,7 @@ export default class Main extends React.Component{
       <View style={styles.container}>
 
           <View style={styles.header}>
-              <Text style={styles.headerText}>M. Abdullah Notes</Text>
+              <Text style={styles.headerText}>Muhammad Abdullah Notes</Text>
           </View>
 
           <ScrollView style={styles.scrollContainer}>
